@@ -1,0 +1,32 @@
+{
+  "name": "playwright-verticalassets-automation",
+  "version": "1.0.0",
+  "description": "This is basic template for Automation",
+  "main": "index.js",
+  "scripts": {
+    "all-ui": "npx playwright test --ui",
+    "all-dev": "npx playwright test --ui",
+    "all-test": "npx playwright test --ui",
+    "all-demo": "npx playwright test --ui",
+    "start": "cross-env NODE_ENV=dev node sample-ui.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.11.6",
+    "allure-commandline": "^2.27.0",
+    "allure-playwright": "^2.9.2",
+    "axe-playwright": "^2.0.1",
+    "picocolors": "^1.0.0"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.8.5",
+    "axios": "^1.6.7",
+    "date-and-time": "^3.1.1",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.4.1"
+  }
+}
