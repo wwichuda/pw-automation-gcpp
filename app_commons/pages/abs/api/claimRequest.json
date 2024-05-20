@@ -1,0 +1,25 @@
+{
+    "request": {
+        "classId": "com.cislapi.coreinsurance.core.claim.Claim",
+        "contractNumber": "CD8000837507",
+        "currency": "EUR",
+        "lossDateTime": "2023-12-19T00:00:00",
+        "dateOfLossVerified": true,
+        "compensateValueAddedTax": "J",
+        "claimClass": "V28AEEE8F17F930F318AA875F36817BC3ACACEEBA7034268C045DD2362F6110F9FF817B641163D6DBE829D0E2685E8409E",
+        "lossType": "V25AB41C40474F8264F6A851B83D05C80D737BF7D9E8842FD92D012157A28FCC669055BF4BFE9208288BACDF0A6BF131E8",
+        "lossCause": "V2F68C266A56FD52A73357063B480A4411737BF7D9E8842FD92D012157A28FCC669055BF4BFE9208288BACDF0A6BF131E8",
+        "claimNotificationDateTime": "2023-12-19T00:00:00",
+        "claimClosingDateTime": "0001-01-01T00:00",
+        "reasonForKeptOpen": "DZU",
+        "responsibleUnit": "IT Master Platform,(01) 878 07 -0,,(01) 878 07/5390",
+        "additionalInformation": "TestInformation",
+        "riskVerification": "J",
+        "rejectionReason": "PXL",
+        "priority": "N",
+        "totalOutstandingLoss": "EUR 9876.55",
+        "coverageAvailability": "J",
+        "mainClassOwn": "KE",
+        "obligationBreach": "N"
+    }
+}

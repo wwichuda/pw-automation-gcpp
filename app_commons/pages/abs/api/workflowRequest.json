@@ -1,0 +1,6 @@
+{
+    "request": {
+        "classId": "com.cislapi.coreinsurance.core.workflow.Workflow",
+        "workflowType": "CLAIM_MANAGEMENT"
+    }
+}
