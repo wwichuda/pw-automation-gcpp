@@ -1,0 +1,30 @@
+{
+    "common": {
+        "contractNumber": "CD8001662980"
+    },
+    "requestBody": {
+        "classId": "com.cislapi.coreinsurance.core.claim.Restitution",
+        "creationDateTime": "{{date}}",
+        "assignmentType": "KA",
+        "serviceProvider": "{{serviceproviderId}}",
+        "desiredReinstateDateTime": "{{date}}",
+        "source": "K",
+        "assignmentReason": "MOTRE",
+        "customers": [
+            "{{ownerId}}"
+        ],
+        "damages": [
+            "{{damageId}}"
+        ],
+        "assignmentLocation": {
+            "classId": "com.cislapi.coreinsurance.core.contact.Address",
+            "self": "{{partyId}}",
+            "countryCode": "A",
+            "state": "3",
+            "city": "Amstetten",
+            "street": "Ackerstraße",
+            "streetNumber": "1",
+            "zipCode": "3300"
+        }
+    }
+}

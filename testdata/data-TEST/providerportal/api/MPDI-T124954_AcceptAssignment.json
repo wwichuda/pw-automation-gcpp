@@ -1,0 +1,12 @@
+{
+    "request": {
+        "assignmentsIdList": [
+            "{{assignmentId}}"
+        ],
+        "status": "ACC",
+        "reason": {
+            "reason": null,
+            "otherReason": null
+        }
+    }
+}

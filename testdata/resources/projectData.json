@@ -1,0 +1,181 @@
+{
+    "commonProperties": "commonValues",
+    "framework": "playwright-javascript",
+    "provider": {
+        "gcppGPPRepairer1": {
+            "name": "GPP Repairer1",
+            "nameDev": "GPP Repairer1 CO Ltd.",
+            "providerName": "GPP Repairer1",
+            "username": "pthim9z",
+            "webuserID": "64342981",
+            "email": "bmp-gcpp-rep1@allianz.com",
+            "password": "8?YdRBsBLkp:3q\"mU6gF8i#u"
+        },
+        "gcppGPPRepairer2": {
+            "name": "GPP Repairer2",
+            "username": "plrz5km",
+            "webuserID": "64342982",
+            "email": "bmp-gcpp-rep2@allianz.com",
+            "password": "6R.l{+=C\\k04"
+        },
+        "gcppGPPRepairer3": {
+            "name": "GPP Repairer3",
+            "username": "aksue8w",
+            "webuserID": "64342980",
+            "email": "bmp-gcpp-rep3@allianz.com",
+            "password": "3322!85sLz9W6IiFE-Qa"
+        },
+        "gcppGPPAssessor1": {
+            "name": "GPP Assessor 1",
+            "username": "zxd8kcc",
+            "webuserID": "64342983",
+            "email": "bmp-gcpp-ass1@allianz.com",
+            "password": "7Sn+4kv1PQ*%Y80&q?o6"
+        },
+        "gcppGPPAssessor2": {
+            "name": "GPP Assessor 2",
+            "username": "aspqsdv",
+            "webuserID": "64342986",
+            "email": "bmp-gcpp-ass2@allianz.com",
+            "password": "e~<)J29u5G1U"
+        },
+        "gcppGPPAssessor3": {
+            "name": "GPP Assessor 3",
+            "username": "r8jd9fk",
+            "webuserID": "64342987",
+            "email": "bmp-gcpp-ass3@allianz.com",
+            "password": "!W$H2y\\AU#0E3h!zq@Shq9#iPj"
+        },
+        "gcppKinematicReconstructor": {
+            "name": "Kinematic Reconstructor",
+            "username": "sqeu58v",
+            "webuserID": "64342988",
+            "email": "bmp-gcpp-kin1@allianz.com",
+            "password": "/*ob95\"66BYu"
+        },
+        "gcppGPPDebtCollector": {
+            "name": "GPP Debt Collector",
+            "username": "lriv9ga",
+            "webuserID": "64342984",
+            "email": "bmp-gcpp-deb1@allianz.com",
+            "password": "zn34+*PIrl\":QYmLcBAtJYlq"
+        },
+        "gcppGPPAssetRecovery": {
+            "name": "GPP Asset Recovery",
+            "username": "sfelmm2",
+            "webuserID": "64342985",
+            "email": "bmp-gcpp-asr1@allianz.com",
+            "password": "592=CHd`5RoO"
+        },
+        "gcppDocumentTranslator": {
+            "name": "Document Translator",
+            "username": "xitpr44",
+            "webuserID": "64342989",
+            "email": "bmp-gcpp-trn1@allianz.com",
+            "password": "3LQ1:}0fPb~B"
+        },
+        "gcppGPPMedicalExpertExt": {
+            "name": "GPP Medical Expert Ext",
+            "username": "yxbqq3b",
+            "webuserID": "64342990",
+            "email": "bmp-gcpp-mex1@allianz.com",
+            "password": "+jC@&a7#jzk1gCE4W$Kt"
+        },
+        "gcppGPPMedicalExpert2Int": {
+            "name": "GPP Medical Expert2 Int",
+            "username": "x5y4r99",
+            "webuserID": "64342991",
+            "email": "bmp-gcpp-mex2@allianz.com",
+            "password": "?Y+M8be*LjqOnYOZ7%?3"
+        },
+        "gcppGPPLawyer": {
+            "name": "GPP Lawyer",
+            "username": "dc49q9e",
+            "webuserID": "64342992",
+            "email": "bmp-gcpp-lyr1@allianz.com",
+            "password": "Y1S1RTWTe,%8"
+        },
+        "gcppGPPLawyerofTrust": {
+            "name": "GPP Lawyer of Trust",
+            "username": "axz263l",
+            "webuserID": "64342993",
+            "email": "bmp-gcpp-ltr1@allianz.com",
+            "password": "r43Y0jH2?9H0T/txt$0?"
+        },
+        "gcppGPPDebtCollector1": {
+            "name": "GPP DebtCollector1",
+            "username": "ggiraib",
+            "webuserID": "64342994",
+            "email": "bmp-gcpp-deb2@allianz.com",
+            "password": "Gy-|aveO,Sn0"
+        },
+        "gcppDemoKinematic": {
+            "name": "Demo Kinematic",
+            "username": "av7aul3",
+            "webuserID": "64342995",
+            "email": "bmp-gcpp-kin2@allianz.com",
+            "password": "a%uQ1SEmyx09cDx09FB@"
+        },
+        "gcppDemoTranslator": {
+            "name": "Demo Translator",
+            "username": "ffcalje",
+            "webuserID": "64342996",
+            "email": "bmp-gcpp-trn2@allianz.com",
+            "password": "v(xI\"240,02Y"
+        },
+        "gcppGPPPropertyRepairer": {
+            "name": "GPP Property Repairer",
+            "username": "cjyzlt9",
+            "webuserID": "64342997",
+            "email": "bmp-gcpp-pre1@allianz.com",
+            "password": "D&!P22Kh?xbrW&2$695c"
+        },
+        "gcppGPPPropertyExpert": {
+            "name": "GPP PropertyExpert",
+            "username": "aqsh7gc",
+            "webuserID": "64342998",
+            "email": "bmp-gcpp-pex1@allianz.com",
+            "password": "Hvm1P2+vzq/C-M10617?"
+        },
+        "gcppGPPInvestigator": {
+            "name": "GPP Investigator",
+            "username": "bqmaz2p",
+            "webuserID": "64342999",
+            "email": "bmp-gcpp-inv1@allianz.com",
+            "password": "g!\\T$9:^q*8wZOfzD%2t@5j"
+        }
+    },
+    "auditor": {
+        "gcppPropertyLossAdjustorProviderAuditor": {
+            "name": "GCPP Property Loss Adjustor Provider Auditor",
+            "username": "bcbx3eh",
+            "webuserID": "64342896",
+            "email": "bmp-gcpp-pl-01@allianz.com",
+            "password": "dS!3O/NJj%d3hFw-uy15"
+        },
+
+        "gcppMedicalProviderAuditor": {
+            "name": "GCPP Medical Provider Auditor",
+            "username": "a4exm7a",
+            "webuserID": "64342897",
+            "email": "bmp-gcpp-mp-02@allianz.com",
+            "password": "5@-5Nu0?Rpn5@30fD41W"
+        },
+
+        "gcppLawyerProviderAuditor": {
+            "name": "GCPP Lawyer Provider Auditor",
+            "username": "l83ie7j",
+            "webuserID": "64342898",
+            "email": "bmp-gcpp-lp-03@allianz.com",
+            "password": "*8*-p0/9ldhLQ$N7nUGY"
+        },
+
+        "gcppInternalUser": {
+            "name": "GCPP Internal User",
+            "username": "au5fesc",
+            "webuserID": "64342920",
+            "email": "bmp-gcpp-internal1-01@allianz.com",
+            "password": "*isTP16HaoN$bgQ2&Z@y"
+        }
+    }
+}

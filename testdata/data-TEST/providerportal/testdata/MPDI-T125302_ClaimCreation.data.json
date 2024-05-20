@@ -1,0 +1,28 @@
+{
+    "common": {
+        "contractNumber": "CD8000837507"
+    },
+    "requestBody": {
+        "classId": "com.cislapi.coreinsurance.core.claim.Claim",
+        "contractNumber": "CD8000837507",
+        "currency": "EUR",
+        "lossDateTime": "2023-12-19T00:00:00",
+        "dateOfLossVerified": true,
+        "compensateValueAddedTax": "J",
+        "claimClass": "{{claimClassId}}",
+        "lossType": "{{lossTypeId}}",
+        "lossCause": "{{lossCauseId}}",
+        "claimNotificationDateTime": "2023-12-19T00:00:00",
+        "claimClosingDateTime": "0001-01-01T00:00",
+        "reasonForKeptOpen": "DZU",
+        "responsibleUnit": "IT Master Platform,(01) 878 07 -0,,(01) 878 07/5390",
+        "additionalInformation": "TestInformation",
+        "riskVerification": "J",
+        "rejectionReason": "PXL",
+        "priority": "N",
+        "totalOutstandingLoss": "EUR 9876.55",
+        "coverageAvailability": "J",
+        "mainClassOwn": "KE",
+        "obligationBreach": "N"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "common": {
+        "contractNumber": "CD8001662980",
+        "claimNumber": "202450002947",
+        "assignmentType": "KA",
+        "providerName": "GPP Repairer1",
+        "countryCode": "A"
+    },
+    "requestBody": {
+        "classId": "com.cislapi.coreinsurance.core.claim.Restitution",
+        "creationDateTime": "{{date}}",
+        "assignmentType": "KA",
+        "serviceProvider": "{{serviceproviderId}}",
+        "desiredReinstateDateTime": "{{date}}",
+        "source": "K",
+        "assignmentReason": "MOTRE",
+        "customers": [
+            "{{ownerId}}"
+        ],
+        "damages": [
+            "{{damageId}}"
+        ],
+        "assignmentLocation": {
+            "classId": "com.cislapi.coreinsurance.core.contact.Address",
+            "self": "{{partyId}}",
+            "countryCode": "A",
+            "state": "3",
+            "city": "Amstetten",
+            "street": "Ackerstraße",
+            "streetNumber": "1",
+            "zipCode": "3300"
+        }
+    },
+    "newAssignmentNumber": [
+        "240863833385",
+        "240863927072",
+        "240864064049",
+        "240864080905",
+        "240864086765",
+        "240864295259",
+        "240864999925",
+        "240865102929"
+    ],
+    "inprogressAssignmentNumber": [
+        "240863611944",
+        "240863808490",
+        "240865060974"
+    ]
+}
